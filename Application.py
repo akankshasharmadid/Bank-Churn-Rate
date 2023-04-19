@@ -5,6 +5,7 @@ import sklearn
 import numpy
 
 
+st.set_page_config(page_title="Bank Churn Rate", page_icon=":smiley:")
 
 # load the model from disk
 loaded_model = pickle.load(open('randomForest.sav', 'rb'))
