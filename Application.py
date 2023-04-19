@@ -5,7 +5,7 @@ import pickle
 
 
 # load the model from disk
-loaded_model = pickle.load(open('/randomForest.sav', 'rb'))
+loaded_model = pickle.load(open('randomForest.sav', 'rb'))
 
 st.header("""
 Bank Churn Rate Prediction Application """)
