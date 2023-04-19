@@ -2,3 +2,4 @@ pandas==1.4.2
 pickleshare==0.7.5
 streamlit==1.8.1
 scikit-image==0.16.2
+numpy==1.17.3
