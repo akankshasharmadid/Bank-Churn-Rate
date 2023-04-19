@@ -7,7 +7,7 @@ Introduction : This project aims to predict if the existing customer is going to
 
 
 ## Table of contents
-- [Analysis of Tweets Recession 2022](#Analysis-of-Tweets-Recession-2022)
+- [Bank Churn Rate](#Bank-Churn-Rate)
 - [Table of contents](#table-of-contents)
 - [Dataset](#dataset)
 - [Methods Used](#methods-used)
