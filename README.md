@@ -72,7 +72,6 @@ This dataset can be used to predict whether a customer is likely to leave the ba
     [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-12831bb1)
     [![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/akanksha185/)
     
-[(Back to top)](#table-of-contents)
 
 - [@Gokula Chandra ](https://github.com/gokula991)
   
